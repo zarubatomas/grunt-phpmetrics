@@ -12,11 +12,12 @@
     "email": "info@tomaszaruba.cz",
     "url": "https://github.com/zarubatomas/"
   }],
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/zarubatomas/grunt-phpmetrics.git"
+    "url": "https://github.com/zarubatomas/grunt-phpmetrics.git"
   },
-  "version": "0.1.0",
+  "version": "0.4.0",
   "engines": {
     "node": "0.10.x"
   },
