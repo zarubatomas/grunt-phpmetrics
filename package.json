@@ -1,0 +1,43 @@
+{
+  "name": "grunt-phpmetrics",
+  "description": "Grunt plugin for running PHP Metrics",
+  "homepage": "https://github.com/zarubatomas/grunt-phpmetrics",
+  "author": {
+    "name": "Tomas Zaruba",
+    "email": "info@tomaszaruba.cz",
+    "url": "https://github.com/zarubatomas/"
+  },
+  "contributors": [{
+    "name": "Tomas Zaruba",
+    "email": "info@tomaszaruba.cz",
+    "url": "https://github.com/zarubatomas/"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zarubatomas/grunt-phpmetrics.git"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "main": "tasks/phpmetrics.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "keywords": [
+    "grunt",
+    "plugin",
+    "php",
+    "phpmetrics",
+    "php-metrics",
+    "code quality",
+    "continuous integration"
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-cli": "~0.1.9"
+  },
+  "bugs": {
+    "url": "https://github.com/zarubatomas/grunt-phpmetrics/issues"
+  }
+}

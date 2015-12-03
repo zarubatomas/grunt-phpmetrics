@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "halleck45/phpmetrics": "dev-master"
+    }
+}
